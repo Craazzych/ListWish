@@ -1,0 +1,7 @@
+.terms-page {
+    box-shadow: #ececec 1px 1px 20px -4px;
+    min-height:100vh;
+}
+.terms-page > .row {
+    margin-top:40px
+}
